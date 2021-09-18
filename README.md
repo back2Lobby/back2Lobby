@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
-<h3 align="center">A passionate full stack frontend developer</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 
 - 🌱 I’m currently learning **Laravel and Vue**
 
